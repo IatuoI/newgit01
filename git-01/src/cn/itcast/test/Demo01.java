@@ -11,6 +11,7 @@ public class Demo01 {
     public void test222(){
         System.out.println("ccccccccccccccddc");
         System.out.println("主机 添加的");
+        System.out.println("菜鸟添加的");
     }
 
 }
